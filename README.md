@@ -1,3 +1,7 @@
+# hobby-page
+
+It's my hobby page
+
 # swrlit with Next.js and Tailwind CSS example
 
 This is an example of using [swrlit](https://swrlit.me) and [Tailwind CSS](https://tailwindcss.com) in a [Next.js](https://nextjs.org/) project.
